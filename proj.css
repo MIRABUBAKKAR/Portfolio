@@ -1,0 +1,78 @@
+body {
+    background-color: #4bcaca;
+}
+.nav_bar {
+    background-color: #00ffff;
+    height: 100px;
+    border-radius: 25px;
+    padding-left: 200px;
+    padding-right: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a {
+    color: black;
+    margin-right: 150px;
+    text-decoration: none;
+    font-size: 21px;
+    font-weight: bolder;
+}
+.projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.same{
+    border: 3px solid #00ffff ;
+    margin-bottom: 200px;
+    margin-top: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 300px;
+    width: 350px;
+    background-color: rgb(0, 0, 0);
+}
+.netflix{
+
+    background-image:url(https://raw.githubusercontent.com/Sunny70977/my-portfolio/main/netflix.png);
+    border-radius: 45px;
+    height: 150px;
+    width: 150x;
+    margin-top: 10px;
+    margin-right: 12px;
+}
+P{
+    color: antiquewhite;
+}
+.portfolio{
+    background-image:url(https://raw.githubusercontent.com/Sunny70977/my-portfolio/main/PORTFOLIO.jpeg) ;
+    border-radius: 35px;
+    height: 150px;
+    width: 150x;
+    margin-top: 10px;
+    background: size 20px;;
+
+}
+.python{
+    background-image: url(https://raw.githubusercontent.com/Sunny70977/my-portfolio/main/Python-Symbol.png);
+    border-radius: 45px;
+    height: 150px;
+    width: 150x;
+    margin-top: 10px;
+    background-size: contain;
+
+
+}
+.current{
+    background-image: url(https://raw.githubusercontent.com/Sunny70977/my-portfolio/main/WORK%20IN%20PROGRESS.png);
+    border-radius: 45px;
+    height: 150px;
+    width: 150x;
+    margin-top: 10px;
+    background-size: cover;
+ 
+}
+.text{
+    margin-left: 10px;
+}
